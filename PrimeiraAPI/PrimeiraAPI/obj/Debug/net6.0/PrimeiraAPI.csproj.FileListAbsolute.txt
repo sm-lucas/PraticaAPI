@@ -1,0 +1,14 @@
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\PrimeiraAPI.exe
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\PrimeiraAPI.deps.json
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\PrimeiraAPI.runtimeconfig.json
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\PrimeiraAPI.dll
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\PrimeiraAPI.pdb
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.AssemblyInfo.cs
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.dll
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\refint\PrimeiraAPI.dll
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.pdb
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.genruntimeconfig.cache
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\ref\PrimeiraAPI.dll
