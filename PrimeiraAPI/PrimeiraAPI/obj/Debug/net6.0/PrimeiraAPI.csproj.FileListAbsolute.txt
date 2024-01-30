@@ -12,3 +12,6 @@ C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\De
 C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.pdb
 C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.genruntimeconfig.cache
 C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\ref\PrimeiraAPI.dll
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\EstudosDanilo\PraticaAPI\PrimeiraAPI\PrimeiraAPI\obj\Debug\net6.0\PrimeiraAPI.csproj.CopyComplete

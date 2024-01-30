@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w3jR+cWd9OGgTYvQUMUybQ6ipQVOrGy2m2GzwDSXdreLFfMhzRh2SM63IkHptWbErPG6ZLuND7YwMFoVbq2TAw==",
+  "dgSpecHash": "tS1pCFNsnQ5/Y2ohApiJfb/HZVp2+w39lZ1GU4DlqUy7uhXhIaStjSFFdqbaSr1M67qhQW80LvOdFxp5wQcPjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Micro\\Documents\\EstudosDanilo\\PraticaAPI\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
