@@ -45,15 +45,15 @@ namespace PrimeiraAPI
                 var responseModelos = client.GetAsync("https://parallelum.com.br/fipe/api/v1/carros/marcas/59/modelos" + "?marca=" + marca.Codigo).Result; // Chama a API de modelos
                 string modelosJson = responseModelos.Content.ReadAsStringAsync().Result; ; // Obtém os dados da resposta
                 var modelos = JsonConvert.DeserializeObject<List<Modelo>>(modelosJson); // Converte os dados para JSON
-            }
 
-            foreach (var modelo in modelos) //Percorre os modelos
-            {
-                Writer.WriteLine(modelo.Codigo + " --- " + modelo.Nome);// Escreve uma linha no arquivo
-            }
-            Writer.Close();// Fecha o arquivo
-            {
-                Console.WriteLine("Arquivos gerados com sucesso!");
+                foreach (var modelo in modelos) //Percorre os modelos
+                {
+                    writer.WriteLine(modelo.Codigo + " --- " + modelo.Nome);// Escreve uma linha no arquivo
+                }
+                writer.Close();// Fecha o arquivo
+                {
+                    Console.WriteLine("Arquivos gerados com sucesso!");
+                }
             }
 
         }
